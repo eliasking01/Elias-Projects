@@ -1,5 +1,5 @@
 import cv2
-import mediapipe as mp
+import mediapipe as mp # Tested in version 0.8.3.1
 import time
 import math
 
